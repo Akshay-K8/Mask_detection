@@ -1,3 +1,9 @@
+import os
+
+# Set environment variable to enable headless mode for OpenCV
+os.environ['OPENCV_IO_ENABLE_JASPER'] = 'true'
+os.environ['OPENCV_VIDEOIO_PRIORITY_MSMF'] = '0'
+
 import streamlit as st
 from keras.models import load_model
 from keras.preprocessing import image
