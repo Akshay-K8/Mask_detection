@@ -13,17 +13,17 @@ This repository contains the code and implementation for an advanced **COVID-19 
 ---
 
 ## 🛠️ Technologies Used
-- **TensorFlow:** Designed the deep learning architecture for mask detection.
-- **Transfer Learning:** Used pre-trained models like `MobileNetV2` to enhance accuracy and reduce training time.
+- **TensorFlow With CNN** Designed the deep learning architecture for mask detection using a Convolutional Neural Network (CNN).
+- **Transfer Learning:** Used pre-trained models like `MobileNetV2`,`VGG16 `  to enhance accuracy and reduce training time.
 - **Streamlit:** Built a user-friendly web application to monitor mask compliance in real-time.
-- **OpenCV:** Integrated real-time video feed for mask detection.
+- **OpenCV:** Integrated real-time Image feed for mask detection.
   
 ---
 
 ## 📊 Model Performance
-- **Training Accuracy:** 97%
-- **Test Accuracy:** 98%
-- **Real-Time Detection Accuracy:** 96%
+- **Training Accuracy:** 98%
+- **Test Accuracy:** 97%
+- **Real-Time Detection Accuracy:** 97%
 - **Error Rate:** 0.08
 
 ---
@@ -39,7 +39,7 @@ This repository contains the code and implementation for an advanced **COVID-19 
 ---
 
 ## 🚀 Features
-- Real-Time Detection: Automatically detects whether a person is wearing a mask in a live video stream.
+- Real-Time Detection: Automatically detects whether a person is wearing a mask in a live Webcam stream.
 - Transfer Learning: Enhanced the model by using pre-trained architectures for improved accuracy.
 - User-Friendly Interface: The entire system is accessible through a Streamlit web application, allowing users to monitor mask compliance effortlessly.
 
