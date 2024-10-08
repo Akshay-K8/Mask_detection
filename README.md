@@ -5,10 +5,10 @@ This repository contains the code and implementation for an advanced **COVID-19 
 ---
 
 ## 🌟 Project Highlights
-- **Accuracy:** Achieved an impressive **97%** accuracy with a **0.08 error rate** on the validation dataset.
+- **Accuracy:** Achieved an impressive **98%** accuracy with a **0.08 error rate** on the validation dataset.
 - **Model Architecture:** Utilized **TensorFlow** for designing and implementing advanced model architecture.
 - **Transfer Learning:** Leveraged pre-trained models to improve model performance, achieving **98% accuracy** on the test dataset.
-- **Real-Time Detection:** Developed a **real-time mask detection system** with a user-friendly frontend using **Streamlit**, achieving a **96% accuracy**, outperforming the previous model by **15%**.
+- **Real-Time Detection:** Developed a **real-time mask detection system** with a user-friendly frontend using **Streamlit**.
 
 ---
 
