@@ -8,13 +8,13 @@ This repository contains the code and implementation for an advanced **COVID-19 
 
 ### 🎥 Real-Time Mask Detection Interface
 ![Mask Detection Interface](FrontPage.png)
-
+---
 ### 🖼️ Sample Output of Mask Detection
 ![Mask Detection Output](MaskDetected.png)
-
+---
 ### 🖼️ Sample Output of Without Mask Detection
 ![Mask Detection Output](No_mask_Detection.png)
-
+---
 - **Accuracy:** Achieved an impressive **98%** accuracy with a **0.08 error rate** on the validation dataset.
 - **Model Architecture:** Utilized **TensorFlow** for designing and implementing advanced model architecture.
 - **Transfer Learning:** Leveraged pre-trained models to improve model performance, achieving **98% accuracy** on the test dataset.
